@@ -1,0 +1,7 @@
+alpha 5 5
+baker 4 4
+charlie 6 6
+delta 1 1
+foxtrot 5 2
+gamma 3 5
+

@@ -1,0 +1,3 @@
+tower First 2 2
+tower Second 5 5
+conn Second First

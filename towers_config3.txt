@@ -1,0 +1,15 @@
+tower T22 2 2
+tower T25 2 5
+tower T28 2 8
+tower T53 5 3
+tower T56 5 6
+tower T59 5 9
+tower T81 8 1
+tower T84 8 4
+conn T25 T59
+conn T25 T28
+conn T25 T56
+conn T25 T53
+conn T53 T84
+conn T84 T81
+conn T81 T22

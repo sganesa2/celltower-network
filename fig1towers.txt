@@ -1,0 +1,7 @@
+tower A 5 9
+tower B 9 7
+tower C 4 5
+tower D 9 2
+conn A B
+conn A C
+conn C D
